@@ -15,3 +15,6 @@ A commandline injector that takes a PID and dylib
 
 # MacOS injector
 A GUI based injector, but I realized this only can hook into certain applications due to it not being able to be ran as sudo(maybe there is a way to do that but never looked it up)
+
+# Note
+This worked on Mojave, but the injection method may be patched on catalina
